@@ -1,0 +1,78 @@
+body{
+  width:100%;
+  margin:0 auto;
+  color:black;
+  font-family: 'Eczar', serif;
+}
+.navbar{
+  background-color:hsl(266,5%,75%);
+  height:80px;
+  width:100%;
+}
+.nav-item{
+  list-style-type:none;
+  float:right;
+  width:240px;
+}
+.button{
+  float:left;
+  width:80px;
+  margin:0 auto;
+}
+.container{
+  height:810px;
+  width:100%;
+  border:5px;
+}
+.column{
+  width:33%;
+  height:800px;
+  float:left;
+  text-align:center;
+  border: dashed red;
+}
+.side-img{
+  margin-top:150px;
+  height:550px;
+}
+.video{
+  margin-top:150px;
+  width:75%;
+}
+.audio{
+  margin-top:150px;
+}
+.wide{
+  width:49.5%;
+}
+.map{
+  margin-top:150px;
+}
+.banner{
+    height:800px;
+    width:100%;
+}
+.footer{
+  background-color:hsl(266,5%,75%);
+  height:80px; 
+  margin:0;
+}
+.footer-col{
+  margin-top:30px;
+  height:30px;
+  width:31%;
+  display:inline-block;
+  overflow:hidden;
+  text-align:center;
+}
+.input{
+  text-align:center;
+}
+.copyright{
+}
+.social{
+  color:rgb(79, 30, 175);
+  font-size:20px;
+  padding-left:10px;
+  padding-right:10px;
+}
